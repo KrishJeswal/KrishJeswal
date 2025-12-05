@@ -1,4 +1,6 @@
-# This space is a quiet mix of code, creativity, and curiosity — a place where I build things, explore ideas, and document what interests me.
+# Hi there,
+
+This space is a quiet mix of code, creativity, and curiosity — a place where I build things, explore ideas, and document what interests me.
 
 ---
 
@@ -24,5 +26,5 @@
 ---
 
 ## 🌐 Elsewhere
-LinkedIn: www.linkedin.com/in/krishjeswal
 Portfolio: in the near future
+LinkedIn: www.linkedin.com/in/krishjeswal
