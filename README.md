@@ -1,4 +1,4 @@
-# Hi there,
+# Hey there!
 
 This space is a quiet mix of code, creativity, and curiosity — a place where I build things, explore ideas, and document what interests me.
 
@@ -25,6 +25,20 @@ This space is a quiet mix of code, creativity, and curiosity — a place where I
 
 ---
 
+## 🛠️ Skills
+
+- Programming — Python, C, C++, SQL  
+- Web — HTML, CSS  
+- Game Development — Pygame  
+- Core CS — DSA, OOPs, Algorithms  
+- Hardware & Electronics — Arduino IDE, IoT Basics, Memristor  
+- Engineering Tools — SolidWorks, Verilog  
+- Other Technical Skills — OSINT, Git, Networking
+
+---
+
 ## 🌐 Elsewhere
-Portfolio: in the near future
-LinkedIn: www.linkedin.com/in/krishjeswal
+
+- **Portfolio:** in the near future  
+- **LinkedIn:** https://www.linkedin.com/in/krishjeswal
+
