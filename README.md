@@ -7,13 +7,13 @@ This space is a quiet mix of code, creativity, and curiosity — a place where I
 ## ✨ Interests
 - Coding and experimenting with new technologies  
 - UI/UX, Data Structures and Machine Learning  
-- Games — genres:  
-  - 🎮: into narrative driven ARPGs, metroidvanias, souls-likes, and other genres that blend challenge with immersive storytelling
-- Music — mainly:  
-  - 🎧: drawn to alt-rock, pop-punk, and indie; the somber, the raw, and the atmospheric
-- Novels — often reading:  
-  - 📚: Gravitate towards deeply humane, character-driven stories layered with rich worldbuilding
-- Working toward greater depth in the domainss I’m actively learning
+- Games — genres:
+  - 🎮: into narrative driven ARPGs, metroidvanias, souls-likes such as Elden Ring, Hollow Knight, Clair Obscur
+- Music — mainly:
+  - 🎧: drawn to alt-rock, pop-punk, and indie like Arctic Monkeys, Pierce The Veil, Radiohead
+- Novels — often reading:
+  - 📚: character-driven stories layered with rich worldbuilding for instance Red Rising and Green Bone Saga
+- Working toward greater depth in the domains I’m actively learning
 
 ---
 
