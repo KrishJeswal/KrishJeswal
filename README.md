@@ -42,5 +42,5 @@ I build end-to-end — React frontends, serverless backends, ML pipelines, and e
 ### Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishjeswal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firebase&logoColor=white)](https://krishjeswal-210.web.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firebase&logoColor=white)](https://krish-jeswal.web.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:connectwithkjeswal@gmail.com)
