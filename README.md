@@ -29,7 +29,7 @@ End-to-end platform for characterizing a bio-ionic memristor synaptic device. Ha
 
 ---
 
-**Excel Data Parser** *(private)*
+**[Synaptic-BioMemristor](https://github.com/KrishJeswal/intelligent-excel-parser)**
 A structured data extraction and cleaning pipeline for Excel workbooks — handles messy multi-sheet files, normalizes column schemas, and exports analysis-ready CSVs. Built to reduce manual pre-processing time on engineering lab data.
 `Python` `pandas` `openpyxl`
 
