@@ -23,9 +23,9 @@ I build end-to-end — React frontends, serverless backends, ML pipelines, and e
 
 ### Featured projects
 
-**[Synaptic-BioMemristor](https://github.com/KrishJeswal/Synaptic-biomemristor)**
-End-to-end platform for characterizing a bio-ionic memristor synaptic device. Handles pulse/sweep experiment control via ESP32 + INA219, live data capture over serial, and conductance prediction using a Linear Regression model trained on measured I–V curves. Built as both a research tool and a demonstration of hardware-in-the-loop ML.
-`ESP32` `Python` `scikit-learn` `INA219` `Serial`
+**[CipherTrace-side-channel-ml](https://github.com/KrishJeswal/CipherTrace-side-channel-ml)**
+A complete profiling attack pipeline against a first-order Boolean masked AES-128 implementation. The target is the ASCAD fixed-key dataset — 50,000 power traces from an ATMega8515 microcontroller, captured by ANSSI (French National Cybersecurity Agency).
+`Sci-kit-learn` `XGBoost` `MLP` `AES`
 
 ---
 
@@ -46,7 +46,7 @@ Real-time webcam emotion detection and mood-tracking dashboard. Uses DeepFace + 
 | Project | Description | Stack |
 |---|---|---|
 | [IETE-RVCE Website](https://iete-rvce.vercel.app) | Official site for RVCE's IETE student chapter with a Join application flow | React, Vite, Tailwind, Vercel Postgres |
-| [Portfolio](https://krish-jeswal.web.app) | Personal site — projects, timeline, contact | HTML, CSS |
+| [Synaptic-BioMemristor](https://github.com/KrishJeswal/Synaptic-biomemristor) | End-to-end platform for characterizing a bio-ionic memristor synaptic device with a LR Model. | Sci-kit-learn, Python |
 
 ---
 
