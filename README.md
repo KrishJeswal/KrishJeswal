@@ -1,73 +1,48 @@
-# Hey, I'm Krish 👋
+# Krish Jeswal
 
-**Full-Stack Developer & ML Engineer** · Electronics & Telecom Undergrad @ RVCE '28
+I build machine-learning systems, the software that ships them, and now and then the hardware underneath.
 
-I build end-to-end — React frontends, serverless backends, ML pipelines, and embedded systems. I'm interested in the intersection of hardware and software, particularly where sensor data meets machine learning. Currently open to internship opportunities.
+Electronics & Telecommunication undergrad at RVCE, Bengaluru ('28). Most of my ML work sits on the evaluation side: harnesses, ablations and interpretability passes that tell me whether a gain is real or an artefact of the split. On the web I own the whole path, from schema to the last bit of interaction polish.
 
----
-
-### What I work with
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)
-[![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+**[Portfolio](https://krish-jeswal.web.app)** · [LinkedIn](https://www.linkedin.com/in/krishjeswal/) · [connectwithkjeswal@gmail.com](mailto:connectwithkjeswal@gmail.com)
 
 ---
 
-### Featured projects
+### Projects
 
-**[CipherTrace-side-channel-ml](https://github.com/KrishJeswal/CipherTrace-side-channel-ml)**
-A complete profiling attack pipeline against a first-order Boolean masked AES-128 implementation. The target is the ASCAD fixed-key dataset — 50,000 power traces from an ATMega8515 microcontroller, captured by ANSSI (French National Cybersecurity Agency).
-`Sci-kit-learn` `XGBoost` `MLP` `AES`
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[CipherTrace](https://github.com/KrishJeswal/CipherTrace)** · [case study](https://krish-jeswal.web.app/work/ciphertrace) | Recovers an AES key byte from the power draw of a masked implementation. | Python · scikit-learn · XGBoost · SHAP |
+| **[LoreRecall](https://github.com/KrishJeswal/LoreRecall)** · [case study](https://krish-jeswal.web.app/work/lorerecall) | Reads everything saved to Notion, crawls the links, then answers questions against it. | Python · ZenML · LangChain · MongoDB |
+| **[GlyphMark](https://github.com/KrishJeswal/GlyphMark)** · [case study](https://krish-jeswal.web.app/work/glyphmark) | One capability, exposed as a CLI, a local MCP server, a remote one and a Skill. | TypeScript · Bun · Zod · Hono |
+| **[Pathfindr](https://github.com/KrishJeswal/Pathfindr)** · [case study](https://krish-jeswal.web.app/work/pathfindr) | Shortest walking route through a four-floor building, lift included. | React · Vite · Vitest · Firebase |
 
----
-
-**[intelligent-excel-parser](https://github.com/KrishJeswal/intelligent-excel-parser)**
-A structured data extraction and cleaning pipeline for Excel workbooks — handles messy multi-sheet files, normalizes column schemas, and exports analysis-ready CSVs. Built to reduce manual pre-processing time on engineering lab data.
-`Python` `pandas` `openpyxl`
-
----
-
-**[MoodVue](https://github.com/KrishJeswal/MoodVue)**
-Real-time webcam emotion detection and mood-tracking dashboard. Uses DeepFace + OpenCV on a Flask backend to classify facial expressions frame-by-frame, with session history, trend charts, and Supabase auth on the frontend.
-`React` `TypeScript` `Flask` `DeepFace` `OpenCV` `Supabase` `Docker`
+Also: [intelligent-excel-parser](https://github.com/KrishJeswal/intelligent-excel-parser), which turns messy multi-sheet Excel workbooks into analysis-ready CSVs.
 
 ---
 
-### Also built
+### Fields
 
-| Project | Description | Stack |
-|---|---|---|
-| [IETE-RVCE Website](https://iete-rvce.vercel.app) | Official site for RVCE's IETE student chapter with a Join application flow | React, Vite, Tailwind, Vercel Postgres |
-| [Synaptic-BioMemristor](https://github.com/KrishJeswal/Synaptic-biomemristor) | End-to-end platform for characterizing a bio-ionic memristor synaptic device with a LR Model. | Sci-kit-learn, Python |
+- **Machine learning.** Predictive ML and retrieval: feature selection, calibration, chunking and reranking, measured against held-out data.
+- **Software.** Web platforms, APIs and agent tooling. Contracts flow from the database to the component, so the compiler catches what review would miss.
+- **Embedded systems.** Microcontrollers, FPGAs and radio links. Reading a system from the clock edge up is the habit I carry into everything else.
 
----
+### Skills
 
-### Currently
-
-- Building a **Smart Campus Navigation** web app (React, Next.js, Dijkstra/A*, SVG maps)
-- Working through **NeetCode 150** for DSA
-- Researching **Physical Layer Key Generation** (PLKG) for IoT security using radio channel reciprocity
+| | |
+| --- | --- |
+| Languages | Python · TypeScript · JavaScript · SQL · C · HTML/CSS · Bash · Verilog · Assembly · GLSL |
+| AI/ML & LLMs | PyTorch · scikit-learn · Hugging Face · RAG · LangChain · QLoRA · XGBoost · SHAP · Ollama |
+| Data & storage | NumPy · pandas · PostgreSQL · MongoDB · Pydantic v2 · ZenML · matplotlib/seaborn |
+| Full-stack | React · Node.js · REST · MCP · Hono · OAuth · Vite · Three.js/WebGL · GSAP · Streamlit |
+| Tools | Git · Docker · uv · pytest · Jupyter · Ruff/oxlint · Bun · Firebase · Opik · Comet ML |
+| Embedded | STM32 · ESP32 · FPGA · Arduino · UART · ADC · LoRa · RFID · KiCad · LTspice · Simulink |
 
 ---
 
 ### Where I'm involved
 
-- **IETE RVCE** — Member
-- **Google Developer Groups RVCE** — Research & Projects
-- **Coding Club RVCE** — Member
+- **GDG on Campus RVCE** (2026–) · Research head. Earned 19 Google Cloud skill badges and mentored 15+ teams at the Vision 2047 hackathon on ML pipelines and cloud deployment.
+- **IETE Student Forum, RVCE** (2025–) · Web developer. Led the team that shipped the [forum's official site](https://iete-rvce.vercel.app) and set up code review across the chapter.
 
----
-
-### Get in touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishjeswal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firebase&logoColor=white)](https://krish-jeswal.web.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:connectwithkjeswal@gmail.com)
+Got an idea, a question, or a book I should read next? [Send it over.](mailto:connectwithkjeswal@gmail.com)
