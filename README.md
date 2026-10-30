@@ -1,7 +1,6 @@
 # Krish Jeswal
 
 I build machine-learning systems, the software that ships them, and now and then the hardware underneath.
-
 Electronics & Telecommunication undergrad at RVCE, Bengaluru ('28). Most of my ML work sits on the evaluation side: harnesses, ablations and interpretability passes that tell me whether a gain is real or an artefact of the split. On the web I own the whole path, from schema to the last bit of interaction polish.
 
 **[Portfolio](https://krish-jeswal.web.app)** · [LinkedIn](https://www.linkedin.com/in/krishjeswal/) · [connectwithkjeswal@gmail.com](mailto:connectwithkjeswal@gmail.com)
